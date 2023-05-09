@@ -9,7 +9,7 @@ Um pouco da minha tragetória acadêmica:
 
 ### Sobre mim
 Gosto muito de acompanhar conteúdos sobre *filmes*, a *indústria de jogos*, *game dev* e *política internacional*.<br>
-Sou torcedor do time escocês Hibernian.
+Sou torcedor do time escocês Hibernian e tenho 2 gatos (Pituca e Levi).
 
 <br>
 
