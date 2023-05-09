@@ -1,13 +1,15 @@
 # Olar™, sou o Rony
 
-Um pouco da minha tragetória acadêmica recente:
-- Atualmente estou cursando *Sistemas de Informação* na Universidade de São Paulo ([EACH-USP](http://www5.each.usp.br/)).
+Um pouco da minha tragetória acadêmica:
+- Estou cursando *Sistemas de Informação* na Universidade de São Paulo ([EACH-USP](http://www5.each.usp.br/)).
 - Concluí o *Técnico em Desenvolvimento de Sistemas* na Etec Heliópolis (2022). Você pode acessar o TCC desenvolvido [aqui](https://github.com/ronyrst/tcc_etec).
 - Concluí o bootcamp de *Java Fullstack* da [Generation Brasil](https://brazil.generation.org/) (2023). 
 
 <br>
 
-Para além disso, gosto muito de acompanhar conteúdos sobre *filmes*, a *indústria de jogos*, *game dev* e *política internacional*.
+### Sobre mim
+Gosto muito de acompanhar conteúdos sobre *filmes*, a *indústria de jogos*, *game dev* e *política internacional*.<br>
+Sou torcedor do time escocês Hibernian.
 
 <br>
 
@@ -25,20 +27,34 @@ under construction
 <br>
 
 ### Estatísticas
-under construction
-
-
-
-
-<<!--
-[![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)](#link-pra-onde-quero-que-vá)
-
-
-<div style="display: inline-block">
-  <img align="center" src="https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Wikipedia" />
+<div align="center">
+  
+[![ronyrst's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronyrst&count_private=true&show_icons=true&theme=react&hide_title=true&include_all_commits=true&rank_icon=github)](https://github.com/ronyrst)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronyrst&layout=compact&langs_count=6&theme=react&title_color=FFFFFF)](https://github.com/ronyrst)
   
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+[![Wikipedia]()](#link-pra-onde-quero-que-vá)
+
+
+<div style="display: inline-block">
+  <img align="center" src="" alt="Wikipedia" />
+  
+</div>
 
 -->
 
