@@ -1,4 +1,4 @@
-# Olar™, sou o Rony
+# Olá, sou o Rony
 
 Um pouco da minha tragetória acadêmica:
 - Estou cursando *Sistemas de Informação* na Universidade de São Paulo ([EACH-USP](http://www5.each.usp.br/)).
